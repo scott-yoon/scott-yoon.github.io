@@ -1,0 +1,25 @@
+title:              Scott Yoon Blog
+email:              yoonsj1116@gmail.com
+description:        윤석주의 개인 블로그
+author:             Scott Yoon
+baseurl:            ""
+url:                "https://scott-yoon.github.io"
+
+# Social Profiles
+twitter_username:
+github_username:    scott-yoon
+facebook_username:
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
