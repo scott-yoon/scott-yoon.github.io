@@ -1,0 +1,30 @@
+---
+layout: post
+title: "2일차 수업내용 정리"
+subtitle: "2일차 수업내용 정리 (2020.09.02(수))"
+date: 2020-09-06 22:29:00 -0400
+background: '/img/posts/06.jpg'
+---
+
+Vue.js 및 기본 문법 학습
+- Vue 인스턴스
+- Vue 라이프 사이클
+- 템플릿 문법 (보간법, 디렉티브(v- 문법))
+- computed, method, watch 속성 학습 및 비교
+
+[참고 링크](https://kr.vuejs.org/v2/guide/instance.html)
+[참고 링크](https://joshua1988.github.io/vue-camp/front-dev.html)
+
+
+Git 사용법 학습
+- git flow 전략 이론 확인
+- git 프로젝트 동작 로직 설명
+- 관련 명령어 확인
+
+[참고 링크](https://hellowoori.tistory.com/56)
+[참고 링크](https://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
+
+Chrome Extension 툴 다운 및 간단한 설명 
+- React Developer Tools
+- Redux DevTools
+- Vue.js devtools
